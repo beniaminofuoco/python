@@ -17,3 +17,12 @@ def sottrazione(l1, l2=[1, 2, 3, 4, 5]):
             result.append(x)
 
     return result
+
+
+def sottrazioneOttimizzata(l1, l2=[1, 2, 3, 4, 5]):
+    result = list()
+
+    for x in l1:
+        if not x in l2:
+            result.append(x)
+    return result

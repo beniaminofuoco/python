@@ -19,10 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="55e49c1a-149d-4874-b252-45f622c9846a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/CorsoUdemy/StruttureDiCodice/EsercitazioneFunction.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="55e49c1a-149d-4874-b252-45f622c9846a" name="Default Changelist" comment="Creazione della funzione sottrazione">
+      <change beforePath="$PROJECT_DIR$/CorsoUdemy/StruttureDiCodice/EsercitazioneFunction.py" beforeDir="false" afterPath="$PROJECT_DIR$/CorsoUdemy/StruttureDiCodice/EsercitazioneFunction.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +49,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Python.Modulo">
+  <component name="RunManager" selected="Python.EsercitazioneFunction">
     <configuration name="EsercitazioneFunction" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -111,11 +109,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Modulo" />
-        <item itemvalue="Python.EsercitazioneFunction" />
-        <item itemvalue="Python.EsercitazioneFunction" />
         <item itemvalue="Python.EsercitazioneFunction" />
         <item itemvalue="Python.Modulo" />
+        <item itemvalue="Python.EsercitazioneFunction" />
+        <item itemvalue="Python.EsercitazioneFunction" />
+        <item itemvalue="Python.EsercitazioneFunction" />
       </list>
     </recent_temporary>
   </component>
@@ -130,6 +128,14 @@
       <option name="presentableId" value="Default" />
       <updated>1590689471821</updated>
     </task>
+    <task id="LOCAL-00001" summary="Creazione della funzione sottrazione">
+      <created>1592229067731</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1592229067731</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -143,6 +149,10 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Creazione della funzione sottrazione" />
+    <option name="LAST_COMMIT_MESSAGE" value="Creazione della funzione sottrazione" />
   </component>
   <component name="WindowStateProjectService">
     <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1591522184711">
@@ -169,5 +179,13 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1345" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1592227308103" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1592229149803">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1592229149803" />
+    <state x="492" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1592229106439">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="492" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1592229106439" />
   </component>
 </project>
