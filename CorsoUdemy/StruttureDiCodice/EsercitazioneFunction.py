@@ -15,7 +15,6 @@ def sottrazione(l1, l2=[1, 2, 3, 4, 5]):
                 break
         if not flg:
             result.append(x)
-
     return result
 
 
