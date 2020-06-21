@@ -19,12 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="55e49c1a-149d-4874-b252-45f622c9846a" name="Default Changelist" comment="Creazione della funzione sottrazioneOttimizzata">
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/Rossella_.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CorsoUdemy/EsercitazioneObjectOriented/ContoCorrente.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+    <list default="true" id="55e49c1a-149d-4874-b252-45f622c9846a" name="Default Changelist" comment="Esercitazione Object-Oriented">
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/Rossella_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/Rossella_.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CorsoUdemy/StruttureDiCodice/EsercitazioneFunction.py" beforeDir="false" afterPath="$PROJECT_DIR$/CorsoUdemy/StruttureDiCodice/EsercitazioneFunction.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CorsoUdemy/EsercitazioneObjectOriented/ContoCorrente.py" beforeDir="false" afterPath="$PROJECT_DIR$/CorsoUdemy/EsercitazioneObjectOriented/ContoCorrente.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,9 +65,6 @@
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CorsoUdemy/EsercitazioneObjectOriented" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -182,7 +177,14 @@
       <option name="project" value="LOCAL" />
       <updated>1592229721386</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Esercitazione Object-Oriented">
+      <created>1592569760961</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1592569760961</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -200,7 +202,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Creazione della funzione sottrazione" />
     <MESSAGE value="Creazione della funzione sottrazioneOttimizzata" />
-    <option name="LAST_COMMIT_MESSAGE" value="Creazione della funzione sottrazioneOttimizzata" />
+    <MESSAGE value="Esercitazione Object-Oriented" />
+    <option name="LAST_COMMIT_MESSAGE" value="Esercitazione Object-Oriented" />
   </component>
   <component name="WindowStateProjectService">
     <state x="309" y="42" width="972" height="643" key="#Inspections" timestamp="1592557077363">
@@ -235,10 +238,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="486" y="66" key="RollbackChangesDialog/0.0.1366.728@0.0.1366.728" timestamp="1592229806178" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1592229753746">
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1592569788160">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1592229753746" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1592569788160" />
     <state x="492" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1592229106439">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

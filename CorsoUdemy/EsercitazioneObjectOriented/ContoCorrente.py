@@ -1,8 +1,12 @@
-class ContoCorrente:
-
-    def __init__(self, nome, conto, importo):
+class Conto:
+    def __init__(self, nome, conto):
         self.nome = nome
         self.conto = conto
+
+class ContoCorrente(Conto):
+
+    def __init__(self, nome, conto, importo):
+        super().__init__(nome, conto)
         self.__saldo = importo
 
     def preleva(self, importo):
@@ -22,6 +26,16 @@ class ContoCorrente:
     def saldo(self, importo):
         self.preleva(self.__saldo)
         self.deposita(importo)
+
+class GestoreContiCorrenti:
+
+    @staticmethod
+    def bonifico(sorgente, destinazione, importo):
+        sorgente.preleva(importo)
+        destinazione.deposita(importo)
+
+
+
 
 c1 = ContoCorrente("Beniamino Fuoco", 12345, 2000)
 c2 = ContoCorrente("Rossella Preziuso", 56789, 5000)
@@ -47,3 +61,18 @@ c1.saldo = 1000
 print("Effettuo delle operazioni...")
 print("")
 c1.descrizione()
+
+
+print("Testo il Gestore dei conti Correnti")
+print("")
+c1 = ContoCorrente("Beniamino Fuoco", 12345, 2000)
+c2 = ContoCorrente("Rossella Preziuso", 56789, 5000)
+
+c1.descrizione()
+c2.descrizione()
+
+print("")
+GestoreContiCorrenti.bonifico(c2, c1, 1000)
+
+c1.descrizione()
+c2.descrizione()
