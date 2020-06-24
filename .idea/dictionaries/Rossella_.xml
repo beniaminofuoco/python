@@ -4,6 +4,7 @@
       <w>abbiamo</w>
       <w>aggiungo</w>
       <w>alle</w>
+      <w>allo</w>
       <w>analizziamo</w>
       <w>anche</w>
       <w>andata</w>
@@ -11,6 +12,8 @@
       <w>andrà</w>
       <w>arricchito</w>
       <w>assegnare</w>
+      <w>avessimo</w>
+      <w>avremmo</w>
       <w>avviene</w>
       <w>bene</w>
       <w>blocco</w>
@@ -40,16 +43,19 @@
       <w>criterio</w>
       <w>dalla</w>
       <w>definiscono</w>
+      <w>degli</w>
       <w>delle</w>
       <w>deposita</w>
       <w>descrizione</w>
       <w>destinazione</w>
       <w>deve</w>
+      <w>dictonary</w>
       <w>diversi</w>
       <w>dopo</w>
       <w>eccezione</w>
       <w>eccezioni</w>
       <w>effettuo</w>
+      <w>elemento</w>
       <w>entrambe</w>
       <w>ereditarieta</w>
       <w>errore</w>
@@ -57,19 +63,25 @@
       <w>eseguita</w>
       <w>esempio</w>
       <w>essere</w>
+      <w>facendo</w>
       <w>facoltativa</w>
       <w>falsa</w>
       <w>fino</w>
       <w>forma</w>
       <w>funzione</w>
       <w>fuoco</w>
+      <w>generare</w>
       <w>generata</w>
       <w>genero</w>
       <w>gerarchia</w>
       <w>gestione</w>
       <w>gestire</w>
+      <w>gestisce</w>
       <w>gestita</w>
       <w>gestore</w>
+      <w>identico</w>
+      <w>implementa</w>
+      <w>implementare</w>
       <w>importante</w>
       <w>importo</w>
       <w>ingresso</w>
@@ -79,34 +91,49 @@
       <w>inizializzerà</w>
       <w>iniziando</w>
       <w>instanza</w>
+      <w>internamente</w>
       <w>istanza</w>
+      <w>itaratori</w>
+      <w>iterare</w>
+      <w>iteratore</w>
       <w>lanciare</w>
       <w>lanciate</w>
       <w>lineare</w>
+      <w>liste</w>
       <w>metodo</w>
       <w>modi</w>
+      <w>modo</w>
+      <w>moltiplicato</w>
       <w>multipla</w>
       <w>mutualmente</w>
       <w>nella</w>
       <w>nessuna</w>
       <w>nostro</w>
       <w>numero</w>
+      <w>oggetti</w>
       <w>oggetto</w>
       <w>oltre</w>
       <w>operazioni</w>
       <w>opzionali</w>
+      <w>ottengo</w>
+      <w>ottenuto</w>
+      <w>otterrei</w>
       <w>parametri</w>
       <w>parametro</w>
       <w>parlando</w>
       <w>parola</w>
+      <w>parte</w>
       <w>partenza</w>
+      <w>particolare</w>
       <w>passato</w>
       <w>però</w>
       <w>possiamo</w>
       <w>possibile</w>
       <w>possibilità</w>
       <w>posta</w>
+      <w>poter</w>
       <w>potrebbe</w>
+      <w>precedente</w>
       <w>precedenti</w>
       <w>preleva</w>
       <w>presentato</w>
@@ -114,26 +141,38 @@
       <w>prevede</w>
       <w>preziuso</w>
       <w>prima</w>
+      <w>primo</w>
       <w>programma</w>
+      <w>propri</w>
       <w>proprio</w>
+      <w>prossimo</w>
       <w>qualora</w>
+      <w>quanto</w>
+      <w>quello</w>
       <w>questa</w>
       <w>questi</w>
       <w>questo</w>
+      <w>realizza</w>
       <w>reise</w>
       <w>restituito</w>
       <w>riceve</w>
       <w>richiamato</w>
+      <w>ricreo</w>
       <w>rilanciare</w>
       <w>risale</w>
+      <w>risultato</w>
+      <w>ritorna</w>
       <w>ritornata</w>
       <w>rossella</w>
       <w>saldo</w>
       <w>sbagliato</w>
+      <w>scopo</w>
       <w>seconda</w>
+      <w>secondo</w>
       <w>seguente</w>
       <w>semplice</w>
       <w>sempre</w>
+      <w>senza</w>
       <w>singola</w>
       <w>situazione</w>
       <w>sono</w>
@@ -144,18 +183,24 @@
       <w>specificata</w>
       <w>specifichiamo</w>
       <w>specifico</w>
+      <w>stampa</w>
       <w>stamperà</w>
       <w>stampo</w>
       <w>stata</w>
       <w>stato</w>
       <w>stessa</w>
+      <w>stesso</w>
       <w>stiamo</w>
       <w>struttura</w>
       <w>subito</w>
       <w>succede</w>
+      <w>successivo</w>
       <w>superclasse</w>
       <w>superclassi</w>
       <w>supporta</w>
+      <w>terminata</w>
+      <w>terzo</w>
+      <w>testiamo</w>
       <w>testo</w>
       <w>tipi</w>
       <w>tipo</w>
@@ -166,9 +211,11 @@
       <w>usare</w>
       <w>usata</w>
       <w>utilizzando</w>
+      <w>utilizzare</w>
       <w>utilizzarla</w>
       <w>utilizzato</w>
       <w>utilizziamo</w>
+      <w>utilizzo</w>
       <w>valore</w>
       <w>valutare</w>
       <w>vari</w>

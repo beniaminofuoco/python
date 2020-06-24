@@ -19,8 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="55e49c1a-149d-4874-b252-45f622c9846a" name="Default Changelist" comment="Advanced - Ereditarietà e classi Object e Type">
-      <change afterPath="$PROJECT_DIR$/CorsoUdemy/Advanced/Costruttore.py" afterDir="false" />
+    <list default="true" id="55e49c1a-149d-4874-b252-45f622c9846a" name="Default Changelist" comment="Advanced - Costruttore __new__">
+      <change afterPath="$PROJECT_DIR$/CorsoUdemy/Advanced/Iteratori.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/dictionaries/Rossella_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/Rossella_.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -60,28 +60,7 @@
       </console-settings>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Costruttore">
-    <configuration name="ContoCorrente" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CorsoUdemy/EsercitazioneObjectOriented" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CorsoUdemy/EsercitazioneObjectOriented/ContoCorrente.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.Iteratori">
     <configuration name="Costruttore" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -145,6 +124,24 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Iteratori" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CorsoUdemy/Advanced" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CorsoUdemy/Advanced/Iteratori.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Object&amp;Type" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -168,11 +165,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Iteratori" />
+        <item itemvalue="Python.Iteratori" />
         <item itemvalue="Python.Costruttore" />
         <item itemvalue="Python.Object&amp;Type" />
         <item itemvalue="Python.Ereditarieta" />
-        <item itemvalue="Python.Eccezioni" />
-        <item itemvalue="Python.ContoCorrente" />
       </list>
     </recent_temporary>
   </component>
@@ -229,7 +226,14 @@
       <option name="project" value="LOCAL" />
       <updated>1592913666284</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Advanced - Costruttore __new__">
+      <created>1592927631856</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1592927631856</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -250,7 +254,8 @@
     <MESSAGE value="Esercitazione Object-Oriented" />
     <MESSAGE value="Eccezioni" />
     <MESSAGE value="Advanced - Ereditarietà e classi Object e Type" />
-    <option name="LAST_COMMIT_MESSAGE" value="Advanced - Ereditarietà e classi Object e Type" />
+    <MESSAGE value="Advanced - Costruttore __new__" />
+    <option name="LAST_COMMIT_MESSAGE" value="Advanced - Costruttore __new__" />
   </component>
   <component name="WindowStateProjectService">
     <state x="309" y="42" width="972" height="643" key="#Inspections" timestamp="1592817626189">
@@ -265,30 +270,46 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="462" y="106" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1591521343641" />
-    <state width="1345" height="179" key="GridCell.Tab.0.bottom" timestamp="1592921439529">
+    <state width="1345" height="223" key="GridCell.Tab.0.bottom" timestamp="1592996577018">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1592921439529" />
-    <state width="1345" height="179" key="GridCell.Tab.0.center" timestamp="1592921439529">
+    <state width="1345" height="223" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1592996577018" />
+    <state width="1345" height="223" key="GridCell.Tab.0.center" timestamp="1592996577018">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1592921439529" />
-    <state width="1345" height="179" key="GridCell.Tab.0.left" timestamp="1592921439529">
+    <state width="1345" height="223" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1592996577018" />
+    <state width="1345" height="223" key="GridCell.Tab.0.left" timestamp="1592996577018">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1592921439529" />
-    <state width="1345" height="179" key="GridCell.Tab.0.right" timestamp="1592921439529">
+    <state width="1345" height="223" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1592996577018" />
+    <state width="1345" height="223" key="GridCell.Tab.0.right" timestamp="1592996577018">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1592921439529" />
+    <state width="1345" height="223" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1592996577018" />
+    <state width="1345" height="223" key="GridCell.Tab.1.bottom" timestamp="1592996577018">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1592996577018" />
+    <state width="1345" height="223" key="GridCell.Tab.1.center" timestamp="1592996577018">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1592996577018" />
+    <state width="1345" height="223" key="GridCell.Tab.1.left" timestamp="1592996577018">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1592996577018" />
+    <state width="1345" height="223" key="GridCell.Tab.1.right" timestamp="1592996577018">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1592996577018" />
     <state x="486" y="66" key="RollbackChangesDialog" timestamp="1592229806178">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="486" y="66" key="RollbackChangesDialog/0.0.1366.728@0.0.1366.728" timestamp="1592229806178" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1592913691753">
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1592927647794">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1592913691753" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1592927647794" />
     <state x="492" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1592229106439">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
