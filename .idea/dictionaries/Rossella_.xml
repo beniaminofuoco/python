@@ -2,6 +2,7 @@
   <dictionary name="Rossella_">
     <words>
       <w>abbiamo</w>
+      <w>accade</w>
       <w>aggiungo</w>
       <w>alle</w>
       <w>allo</w>
@@ -21,7 +22,9 @@
       <w>caso</w>
       <w>cercare</w>
       <w>chiamato</w>
+      <w>chiave</w>
       <w>chiedendo</w>
+      <w>ciclo</w>
       <w>cioè</w>
       <w>classe</w>
       <w>classi</w>
@@ -29,19 +32,23 @@
       <w>clausole</w>
       <w>cluasola</w>
       <w>clusola</w>
+      <w>codice</w>
       <w>consente</w>
+      <w>contenuto</w>
       <w>conti</w>
       <w>continuerebbe</w>
       <w>conto</w>
       <w>corrente</w>
       <w>correnti</w>
       <w>cosa</w>
+      <w>costruiti</w>
       <w>costrutto</w>
       <w>costruttore</w>
       <w>creata</w>
       <w>creo</w>
       <w>criterio</w>
       <w>dalla</w>
+      <w>dati</w>
       <w>definiscono</w>
       <w>degli</w>
       <w>delle</w>
@@ -72,6 +79,8 @@
       <w>fuoco</w>
       <w>generare</w>
       <w>generata</w>
+      <w>generatore</w>
+      <w>generatori</w>
       <w>genero</w>
       <w>gerarchia</w>
       <w>gestione</w>
@@ -79,11 +88,13 @@
       <w>gestisce</w>
       <w>gestita</w>
       <w>gestore</w>
+      <w>grandi</w>
       <w>identico</w>
       <w>implementa</w>
       <w>implementare</w>
       <w>importante</w>
       <w>importo</w>
+      <w>indispensabile</w>
       <w>ingresso</w>
       <w>inizializzare</w>
       <w>inizializzata</w>
@@ -92,22 +103,29 @@
       <w>iniziando</w>
       <w>instanza</w>
       <w>internamente</w>
+      <w>interrompe</w>
+      <w>interrompere</w>
+      <w>inutile</w>
       <w>istanza</w>
       <w>itaratori</w>
       <w>iterare</w>
       <w>iteratore</w>
       <w>lanciare</w>
+      <w>lanciata</w>
       <w>lanciate</w>
       <w>lineare</w>
+      <w>lista</w>
       <w>liste</w>
       <w>metodo</w>
       <w>modi</w>
       <w>modo</w>
       <w>moltiplicato</w>
+      <w>momento</w>
       <w>multipla</w>
       <w>mutualmente</w>
       <w>nella</w>
       <w>nessuna</w>
+      <w>niente</w>
       <w>nostro</w>
       <w>numero</w>
       <w>oggetti</w>
@@ -116,6 +134,7 @@
       <w>operazioni</w>
       <w>opzionali</w>
       <w>ottengo</w>
+      <w>otteniamo</w>
       <w>ottenuto</w>
       <w>otterrei</w>
       <w>parametri</w>
@@ -126,6 +145,7 @@
       <w>partenza</w>
       <w>particolare</w>
       <w>passato</w>
+      <w>perchè</w>
       <w>però</w>
       <w>possiamo</w>
       <w>possibile</w>
@@ -146,7 +166,11 @@
       <w>propri</w>
       <w>proprio</w>
       <w>prossimo</w>
+      <w>proviamo</w>
       <w>qualora</w>
+      <w>quando</w>
+      <w>quante</w>
+      <w>quantità</w>
       <w>quanto</w>
       <w>quello</w>
       <w>questa</w>
@@ -157,8 +181,11 @@
       <w>restituito</w>
       <w>riceve</w>
       <w>richiamato</w>
+      <w>richiamiamo</w>
       <w>ricreo</w>
       <w>rilanciare</w>
+      <w>ripetiamo</w>
+      <w>riprende</w>
       <w>risale</w>
       <w>risultato</w>
       <w>ritorna</w>
@@ -167,9 +194,11 @@
       <w>saldo</w>
       <w>sbagliato</w>
       <w>scopo</w>
+      <w>scorrere</w>
       <w>seconda</w>
       <w>secondo</w>
       <w>seguente</w>
+      <w>sembrare</w>
       <w>semplice</w>
       <w>sempre</w>
       <w>senza</w>
@@ -184,6 +213,7 @@
       <w>specifichiamo</w>
       <w>specifico</w>
       <w>stampa</w>
+      <w>stampare</w>
       <w>stamperà</w>
       <w>stampo</w>
       <w>stata</w>
@@ -194,6 +224,7 @@
       <w>struttura</w>
       <w>subito</w>
       <w>succede</w>
+      <w>successiva</w>
       <w>successivo</w>
       <w>superclasse</w>
       <w>superclassi</w>
@@ -205,11 +236,14 @@
       <w>tipi</w>
       <w>tipo</w>
       <w>tramite</w>
+      <w>trattiamo</w>
       <w>trova</w>
       <w>trovasse</w>
       <w>tutto</w>
+      <w>uguale</w>
       <w>usare</w>
       <w>usata</w>
+      <w>utilizza</w>
       <w>utilizzando</w>
       <w>utilizzare</w>
       <w>utilizzarla</w>
@@ -226,6 +260,8 @@
       <w>verrà</w>
       <w>viene</w>
       <w>visto</w>
+      <w>vogliamo</w>
+      <w>volte</w>
     </words>
   </dictionary>
 </component>
