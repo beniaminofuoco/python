@@ -20,15 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="55e49c1a-149d-4874-b252-45f622c9846a" name="Default Changelist" comment="Data Class, AssignmentExpression e Param Only Positional">
-      <change afterPath="$PROJECT_DIR$/CorsoUdemy/RabbitMQ/Producer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CorsoUdemy/RabbitMQ/Worker.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CorsoUdemy/Mongo/creaDB.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CorsoUdemy/Mongo/queryDB.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/dictionaries/Rossella_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/Rossella_.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FirstProject/Scripts/easy_install-3.8.exe" beforeDir="false" afterPath="$PROJECT_DIR$/FirstProject/Scripts/easy_install-3.8.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FirstProject/Scripts/easy_install.exe" beforeDir="false" afterPath="$PROJECT_DIR$/FirstProject/Scripts/easy_install.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FirstProject/Scripts/pip.exe" beforeDir="false" afterPath="$PROJECT_DIR$/FirstProject/Scripts/pip.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FirstProject/Scripts/pip3.8.exe" beforeDir="false" afterPath="$PROJECT_DIR$/FirstProject/Scripts/pip3.8.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FirstProject/Scripts/pip3.exe" beforeDir="false" afterPath="$PROJECT_DIR$/FirstProject/Scripts/pip3.exe" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,49 +61,7 @@
       </console-settings>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Worker">
-    <configuration name="AssignmentExpr3_8" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CorsoUdemy/UpgradePython" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CorsoUdemy/UpgradePython/AssignmentExpr3_8.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="ParamPosOnly3_8" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CorsoUdemy/UpgradePython" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CorsoUdemy/UpgradePython/ParamPosOnly3_8.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.queryDB">
     <configuration name="Producer" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -155,6 +108,9 @@
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CorsoUdemy/RabbitMQ" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -169,13 +125,55 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="creaDB" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CorsoUdemy/Mongo" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CorsoUdemy/Mongo/creaDB.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="queryDB" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CorsoUdemy/Mongo" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CorsoUdemy/Mongo/queryDB.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.queryDB" />
+        <item itemvalue="Python.creaDB" />
         <item itemvalue="Python.Worker" />
         <item itemvalue="Python.Producer" />
         <item itemvalue="Python.Worker" />
-        <item itemvalue="Python.Worker" />
-        <item itemvalue="Python.ParamPosOnly3_8" />
       </list>
     </recent_temporary>
   </component>
@@ -308,22 +306,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="462" y="106" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1591521343641" />
-    <state width="1345" height="179" key="GridCell.Tab.0.bottom" timestamp="1593178142376">
+    <state width="1345" height="179" key="GridCell.Tab.0.bottom" timestamp="1593189135596">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1593178142376" />
-    <state width="1345" height="179" key="GridCell.Tab.0.center" timestamp="1593178142376">
+    <state width="1345" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1593189135596" />
+    <state width="1345" height="179" key="GridCell.Tab.0.center" timestamp="1593189135596">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1593178142376" />
-    <state width="1345" height="179" key="GridCell.Tab.0.left" timestamp="1593178142376">
+    <state width="1345" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1593189135596" />
+    <state width="1345" height="179" key="GridCell.Tab.0.left" timestamp="1593189135596">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1593178142376" />
-    <state width="1345" height="179" key="GridCell.Tab.0.right" timestamp="1593178142376">
+    <state width="1345" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1593189135596" />
+    <state width="1345" height="179" key="GridCell.Tab.0.right" timestamp="1593189135596">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1593178142376" />
+    <state width="1345" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1593189135596" />
     <state width="1345" height="223" key="GridCell.Tab.1.bottom" timestamp="1593009153988">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

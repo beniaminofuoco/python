@@ -4,6 +4,7 @@
       <w>abbiamo</w>
       <w>accade</w>
       <w>adesso</w>
+      <w>aggiorniamo</w>
       <w>aggiungo</w>
       <w>alcuni</w>
       <w>alle</w>
@@ -21,6 +22,7 @@
       <w>ascolto</w>
       <w>assegnando</w>
       <w>assegnare</w>
+      <w>asus</w>
       <w>attraverso</w>
       <w>automatico</w>
       <w>avessimo</w>
@@ -35,6 +37,7 @@
       <w>caso</w>
       <w>cercare</w>
       <w>chiamato</w>
+      <w>chiamo</w>
       <w>chiave</w>
       <w>chiavi</w>
       <w>chiedendo</w>
@@ -78,6 +81,7 @@
       <w>crea</w>
       <w>creare</w>
       <w>creata</w>
+      <w>creato</w>
       <w>creo</w>
       <w>criterio</w>
       <w>dalla</w>
@@ -113,6 +117,7 @@
       <w>esclusive</w>
       <w>eseguita</w>
       <w>eseguito</w>
+      <w>eseguo</w>
       <w>esempio</w>
       <w>essere</w>
       <w>estende</w>
@@ -141,6 +146,7 @@
       <w>gestore</w>
       <w>gira</w>
       <w>grandi</w>
+      <w>hanno</w>
       <w>identico</w>
       <w>implementa</w>
       <w>implementare</w>
@@ -150,6 +156,7 @@
       <w>importo</w>
       <w>imprementa</w>
       <w>indentificate</w>
+      <w>indici</w>
       <w>indico</w>
       <w>indispensabile</w>
       <w>infine</w>
@@ -162,6 +169,7 @@
       <w>iniziando</w>
       <w>inoltre</w>
       <w>inserimento</w>
+      <w>inserisco</w>
       <w>instanza</w>
       <w>internamente</w>
       <w>interrompe</w>
@@ -199,6 +207,7 @@
       <w>modo</w>
       <w>moltiplicato</w>
       <w>momento</w>
+      <w>mongo</w>
       <w>multipla</w>
       <w>mutualmente</w>
       <w>necessario</w>
@@ -234,6 +243,7 @@
       <w>perchè</w>
       <w>permette</w>
       <w>permettono</w>
+      <w>persone</w>
       <w>però</w>
       <w>posizionale</w>
       <w>posizionali</w>
@@ -278,6 +288,7 @@
       <w>racchiuso</w>
       <w>rappresentazione</w>
       <w>realizza</w>
+      <w>recupero</w>
       <w>reise</w>
       <w>restituito</w>
       <w>riceve</w>
@@ -297,6 +308,7 @@
       <w>ritornata</w>
       <w>ritorno</w>
       <w>rossella</w>
+      <w>rossi</w>
       <w>saldo</w>
       <w>saluta</w>
       <w>sarà</w>
@@ -350,6 +362,7 @@
       <w>supporta</w>
       <w>terminata</w>
       <w>terzo</w>
+      <w>testdb</w>
       <w>testiamo</w>
       <w>testo</w>
       <w>tipi</w>
@@ -358,7 +371,9 @@
       <w>trattiamo</w>
       <w>tricheco</w>
       <w>trova</w>
+      <w>trovare</w>
       <w>trovasse</w>
+      <w>tutte</w>
       <w>tutto</w>
       <w>uguale</w>
       <w>uguali</w>
@@ -392,6 +407,7 @@
       <w>viene</w>
       <w>visto</w>
       <w>vogliamo</w>
+      <w>voglio</w>
       <w>volte</w>
     </words>
   </dictionary>
