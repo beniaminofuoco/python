@@ -3,6 +3,7 @@
     <words>
       <w>abbiamo</w>
       <w>accade</w>
+      <w>adesso</w>
       <w>aggiungo</w>
       <w>alcuni</w>
       <w>alle</w>
@@ -11,10 +12,13 @@
       <w>analizziamo</w>
       <w>anche</w>
       <w>andata</w>
+      <w>andiamo</w>
       <w>andrebbe</w>
+      <w>andremo</w>
       <w>andrà</w>
       <w>annotare</w>
       <w>arricchito</w>
+      <w>ascolto</w>
       <w>assegnando</w>
       <w>assegnare</w>
       <w>attraverso</w>
@@ -27,6 +31,7 @@
       <w>bonifico</w>
       <w>cambiare</w>
       <w>campi</w>
+      <w>canale</w>
       <w>caso</w>
       <w>cercare</w>
       <w>chiamato</w>
@@ -43,14 +48,21 @@
       <w>clusola</w>
       <w>codice</w>
       <w>cognome</w>
+      <w>collegamento</w>
+      <w>comunicare</w>
       <w>comunque</w>
       <w>confrontando</w>
       <w>confrontano</w>
       <w>confronto</w>
       <w>congruenza</w>
+      <w>connessione</w>
+      <w>connetterci</w>
+      <w>consegnare</w>
       <w>consente</w>
+      <w>consumare</w>
       <w>contenere</w>
       <w>contenuto</w>
+      <w>conterrà</w>
       <w>conti</w>
       <w>contiene</w>
       <w>continuerebbe</w>
@@ -64,6 +76,7 @@
       <w>costrutto</w>
       <w>costruttore</w>
       <w>crea</w>
+      <w>creare</w>
       <w>creata</w>
       <w>creo</w>
       <w>criterio</w>
@@ -72,6 +85,7 @@
       <w>dato</w>
       <w>decoratore</w>
       <w>definire</w>
+      <w>definisco</w>
       <w>definiscono</w>
       <w>definiti</w>
       <w>definito</w>
@@ -82,6 +96,7 @@
       <w>destinazione</w>
       <w>deve</w>
       <w>devono</w>
+      <w>diciamo</w>
       <w>dictonary</w>
       <w>disposizione</w>
       <w>diversi</w>
@@ -97,9 +112,11 @@
       <w>errore</w>
       <w>esclusive</w>
       <w>eseguita</w>
+      <w>eseguito</w>
       <w>esempio</w>
       <w>essere</w>
       <w>estende</w>
+      <w>eventuali</w>
       <w>facendo</w>
       <w>facoltativa</w>
       <w>falsa</w>
@@ -122,6 +139,7 @@
       <w>gestisce</w>
       <w>gestita</w>
       <w>gestore</w>
+      <w>gira</w>
       <w>grandi</w>
       <w>identico</w>
       <w>implementa</w>
@@ -132,6 +150,7 @@
       <w>importo</w>
       <w>imprementa</w>
       <w>indentificate</w>
+      <w>indico</w>
       <w>indispensabile</w>
       <w>infine</w>
       <w>informazioni</w>
@@ -150,6 +169,7 @@
       <w>introdotte</w>
       <w>introdotto</w>
       <w>inutile</w>
+      <w>inviato</w>
       <w>inzializza</w>
       <w>istanza</w>
       <w>istanze</w>
@@ -167,6 +187,8 @@
       <w>maggiore</w>
       <w>mantenuto</w>
       <w>meno</w>
+      <w>messaggi</w>
+      <w>messaggio</w>
       <w>metodi</w>
       <w>metodo</w>
       <w>mette</w>
@@ -193,6 +215,7 @@
       <w>operatori</w>
       <w>operazioni</w>
       <w>opzionali</w>
+      <w>ottenere</w>
       <w>ottengo</w>
       <w>otteniamo</w>
       <w>ottenuto</w>
@@ -224,6 +247,7 @@
       <w>potrebbe</w>
       <w>precedente</w>
       <w>precedenti</w>
+      <w>precedenza</w>
       <w>precisamente</w>
       <w>predefinite</w>
       <w>preleva</w>
@@ -257,9 +281,11 @@
       <w>reise</w>
       <w>restituito</w>
       <w>riceve</w>
+      <w>ricevuto</w>
       <w>richiamato</w>
       <w>richiamiamo</w>
       <w>richiamo</w>
+      <w>richiedo</w>
       <w>ricreo</w>
       <w>rilanciare</w>
       <w>rilasciata</w>
@@ -273,6 +299,7 @@
       <w>rossella</w>
       <w>saldo</w>
       <w>saluta</w>
+      <w>sarà</w>
       <w>sbagliato</w>
       <w>scopo</w>
       <w>scorrere</w>
@@ -286,6 +313,7 @@
       <w>sempre</w>
       <w>senza</w>
       <w>serie</w>
+      <w>servono</w>
       <w>singola</w>
       <w>sintassi</w>
       <w>situazione</w>
@@ -298,6 +326,7 @@
       <w>specificare</w>
       <w>specificata</w>
       <w>specificato</w>
+      <w>specificheremo</w>
       <w>specifichiamo</w>
       <w>specifico</w>
       <w>stampa</w>
@@ -340,6 +369,7 @@
       <w>utilizzando</w>
       <w>utilizzare</w>
       <w>utilizzarla</w>
+      <w>utilizzata</w>
       <w>utilizzate</w>
       <w>utilizzati</w>
       <w>utilizzato</w>

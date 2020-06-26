@@ -19,12 +19,16 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="55e49c1a-149d-4874-b252-45f622c9846a" name="Default Changelist" comment="Python 3.7 - Dictionary e Type Annotations">
-      <change afterPath="$PROJECT_DIR$/CorsoUdemy/UpgradePython/AssignmentExpr3_8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CorsoUdemy/UpgradePython/DataClass3_7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CorsoUdemy/UpgradePython/ParamPosOnly3_8.py" afterDir="false" />
+    <list default="true" id="55e49c1a-149d-4874-b252-45f622c9846a" name="Default Changelist" comment="Data Class, AssignmentExpression e Param Only Positional">
+      <change afterPath="$PROJECT_DIR$/CorsoUdemy/RabbitMQ/Producer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CorsoUdemy/RabbitMQ/Worker.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/dictionaries/Rossella_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/Rossella_.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FirstProject/Scripts/easy_install-3.8.exe" beforeDir="false" afterPath="$PROJECT_DIR$/FirstProject/Scripts/easy_install-3.8.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FirstProject/Scripts/easy_install.exe" beforeDir="false" afterPath="$PROJECT_DIR$/FirstProject/Scripts/easy_install.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FirstProject/Scripts/pip.exe" beforeDir="false" afterPath="$PROJECT_DIR$/FirstProject/Scripts/pip.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FirstProject/Scripts/pip3.8.exe" beforeDir="false" afterPath="$PROJECT_DIR$/FirstProject/Scripts/pip3.8.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FirstProject/Scripts/pip3.exe" beforeDir="false" afterPath="$PROJECT_DIR$/FirstProject/Scripts/pip3.exe" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +66,7 @@
       </console-settings>
     </option>
   </component>
-  <component name="RunManager" selected="Python.ParamPosOnly3_8">
+  <component name="RunManager" selected="Python.Worker">
     <configuration name="AssignmentExpr3_8" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -76,45 +80,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CorsoUdemy/UpgradePython/AssignmentExpr3_8.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="DataClass3_7" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CorsoUdemy/UpgradePython" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Python\CorsoUdemy\UpgradePython\DataClass3_7.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="GeneratorExpression" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CorsoUdemy/Advanced" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CorsoUdemy/Advanced/GeneratorExpression.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -144,6 +109,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Producer" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CorsoUdemy/RabbitMQ" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CorsoUdemy/RabbitMQ/Producer.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Python3_7" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -165,13 +151,31 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Worker" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CorsoUdemy/RabbitMQ" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CorsoUdemy/RabbitMQ/Worker.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Worker" />
+        <item itemvalue="Python.Producer" />
+        <item itemvalue="Python.Worker" />
+        <item itemvalue="Python.Worker" />
         <item itemvalue="Python.ParamPosOnly3_8" />
-        <item itemvalue="Python.AssignmentExpr3_8" />
-        <item itemvalue="Python.DataClass3_7" />
-        <item itemvalue="Python.Python3_7" />
-        <item itemvalue="Python.GeneratorExpression" />
       </list>
     </recent_temporary>
   </component>
@@ -256,7 +260,14 @@
       <option name="project" value="LOCAL" />
       <updated>1593100610021</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Data Class, AssignmentExpression e Param Only Positional">
+      <created>1593168421001</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1593168421001</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -281,7 +292,8 @@
     <MESSAGE value="Advanced - Iterator e Iterable" />
     <MESSAGE value="Advanced - Generator Expression" />
     <MESSAGE value="Python 3.7 - Dictionary e Type Annotations" />
-    <option name="LAST_COMMIT_MESSAGE" value="Python 3.7 - Dictionary e Type Annotations" />
+    <MESSAGE value="Data Class, AssignmentExpression e Param Only Positional" />
+    <option name="LAST_COMMIT_MESSAGE" value="Data Class, AssignmentExpression e Param Only Positional" />
   </component>
   <component name="WindowStateProjectService">
     <state x="309" y="42" width="972" height="643" key="#Inspections" timestamp="1592817626189">
@@ -296,22 +308,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="462" y="106" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1591521343641" />
-    <state width="1345" height="179" key="GridCell.Tab.0.bottom" timestamp="1593168369715">
+    <state width="1345" height="179" key="GridCell.Tab.0.bottom" timestamp="1593178142376">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1593168369715" />
-    <state width="1345" height="179" key="GridCell.Tab.0.center" timestamp="1593168369715">
+    <state width="1345" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1593178142376" />
+    <state width="1345" height="179" key="GridCell.Tab.0.center" timestamp="1593178142376">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1593168369715" />
-    <state width="1345" height="179" key="GridCell.Tab.0.left" timestamp="1593168369715">
+    <state width="1345" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1593178142376" />
+    <state width="1345" height="179" key="GridCell.Tab.0.left" timestamp="1593178142376">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1593168369715" />
-    <state width="1345" height="179" key="GridCell.Tab.0.right" timestamp="1593168369715">
+    <state width="1345" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1593178142376" />
+    <state width="1345" height="179" key="GridCell.Tab.0.right" timestamp="1593178142376">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1593168369715" />
+    <state width="1345" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1593178142376" />
     <state width="1345" height="223" key="GridCell.Tab.1.bottom" timestamp="1593009153988">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -332,10 +344,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="486" y="66" key="RollbackChangesDialog/0.0.1366.728@0.0.1366.728" timestamp="1592229806178" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1593100622760">
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1593168428930">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1593100622760" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1593168428930" />
     <state x="492" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1592229106439">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
