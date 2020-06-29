@@ -19,9 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="55e49c1a-149d-4874-b252-45f622c9846a" name="Default Changelist" comment="Data Class, AssignmentExpression e Param Only Positional">
-      <change afterPath="$PROJECT_DIR$/CorsoUdemy/Mongo/creaDB.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CorsoUdemy/Mongo/queryDB.py" afterDir="false" />
+    <list default="true" id="55e49c1a-149d-4874-b252-45f622c9846a" name="Default Changelist" comment="MongoDB">
+      <change afterPath="$PROJECT_DIR$/CorsoUdemy/ChallengeLeo/Task1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/dictionaries/Rossella_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/Rossella_.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -61,7 +60,7 @@
       </console-settings>
     </option>
   </component>
-  <component name="RunManager" selected="Python.queryDB">
+  <component name="RunManager" selected="Python.Task1">
     <configuration name="Producer" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -83,7 +82,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Python3_7" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Task1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -91,11 +90,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CorsoUdemy/UpgradePython" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CorsoUdemy/ChallengeLeo" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CorsoUdemy/UpgradePython/Python3_7.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CorsoUdemy/ChallengeLeo/Task1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -169,11 +168,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Task1" />
         <item itemvalue="Python.queryDB" />
         <item itemvalue="Python.creaDB" />
         <item itemvalue="Python.Worker" />
         <item itemvalue="Python.Producer" />
-        <item itemvalue="Python.Worker" />
       </list>
     </recent_temporary>
   </component>
@@ -265,7 +264,14 @@
       <option name="project" value="LOCAL" />
       <updated>1593168421001</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="MongoDB">
+      <created>1593189719091</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1593189719091</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -291,7 +297,8 @@
     <MESSAGE value="Advanced - Generator Expression" />
     <MESSAGE value="Python 3.7 - Dictionary e Type Annotations" />
     <MESSAGE value="Data Class, AssignmentExpression e Param Only Positional" />
-    <option name="LAST_COMMIT_MESSAGE" value="Data Class, AssignmentExpression e Param Only Positional" />
+    <MESSAGE value="MongoDB" />
+    <option name="LAST_COMMIT_MESSAGE" value="MongoDB" />
   </component>
   <component name="WindowStateProjectService">
     <state x="309" y="42" width="972" height="643" key="#Inspections" timestamp="1592817626189">
@@ -306,46 +313,46 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="462" y="106" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1591521343641" />
-    <state width="1345" height="179" key="GridCell.Tab.0.bottom" timestamp="1593189135596">
+    <state width="1345" height="179" key="GridCell.Tab.0.bottom" timestamp="1593423178706">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1593189135596" />
-    <state width="1345" height="179" key="GridCell.Tab.0.center" timestamp="1593189135596">
+    <state width="1345" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1593423178706" />
+    <state width="1345" height="179" key="GridCell.Tab.0.center" timestamp="1593423178706">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1593189135596" />
-    <state width="1345" height="179" key="GridCell.Tab.0.left" timestamp="1593189135596">
+    <state width="1345" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1593423178706" />
+    <state width="1345" height="179" key="GridCell.Tab.0.left" timestamp="1593423178706">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1593189135596" />
-    <state width="1345" height="179" key="GridCell.Tab.0.right" timestamp="1593189135596">
+    <state width="1345" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1593423178706" />
+    <state width="1345" height="179" key="GridCell.Tab.0.right" timestamp="1593423178706">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1593189135596" />
-    <state width="1345" height="223" key="GridCell.Tab.1.bottom" timestamp="1593009153988">
+    <state width="1345" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1593423178706" />
+    <state width="1345" height="223" key="GridCell.Tab.1.bottom" timestamp="1593422975629">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1593009153988" />
-    <state width="1345" height="223" key="GridCell.Tab.1.center" timestamp="1593009153988">
+    <state width="1345" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1593422975629" />
+    <state width="1345" height="223" key="GridCell.Tab.1.center" timestamp="1593422975629">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1593009153988" />
-    <state width="1345" height="223" key="GridCell.Tab.1.left" timestamp="1593009153988">
+    <state width="1345" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1593422975629" />
+    <state width="1345" height="223" key="GridCell.Tab.1.left" timestamp="1593422975629">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1593009153988" />
-    <state width="1345" height="223" key="GridCell.Tab.1.right" timestamp="1593009153988">
+    <state width="1345" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1593422975629" />
+    <state width="1345" height="223" key="GridCell.Tab.1.right" timestamp="1593422975629">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1345" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1593009153988" />
+    <state width="1345" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1593422975629" />
     <state x="486" y="66" key="RollbackChangesDialog" timestamp="1592229806178">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="486" y="66" key="RollbackChangesDialog/0.0.1366.728@0.0.1366.728" timestamp="1592229806178" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1593168428930">
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1593189734259">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1593168428930" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1593189734259" />
     <state x="492" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1592229106439">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

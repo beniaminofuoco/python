@@ -52,6 +52,7 @@
       <w>codice</w>
       <w>cognome</w>
       <w>collegamento</w>
+      <w>combinazioni</w>
       <w>comunicare</w>
       <w>comunque</w>
       <w>confrontando</w>
@@ -145,6 +146,7 @@
       <w>gestita</w>
       <w>gestore</w>
       <w>gira</w>
+      <w>grandezza</w>
       <w>grandi</w>
       <w>hanno</w>
       <w>identico</w>
@@ -169,6 +171,7 @@
       <w>iniziando</w>
       <w>inoltre</w>
       <w>inserimento</w>
+      <w>inserisci</w>
       <w>inserisco</w>
       <w>instanza</w>
       <w>internamente</w>
@@ -240,6 +243,7 @@
       <w>partenza</w>
       <w>particolare</w>
       <w>passato</w>
+      <w>passo</w>
       <w>perchè</w>
       <w>permette</w>
       <w>permettono</w>
@@ -409,6 +413,7 @@
       <w>vogliamo</w>
       <w>voglio</w>
       <w>volte</w>
+      <w>vuoi</w>
     </words>
   </dictionary>
 </component>
